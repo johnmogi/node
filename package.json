@@ -7,7 +7,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "echo 'hi'",
-    "git": ""
+    "git": "git add . && git commit -m",
+    "postgit": "git push all"
   }
 
 }
