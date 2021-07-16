@@ -1,0 +1,13 @@
+{
+  "name": "gitshak",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/johnmogi/node.git",
+  "author": "johnmogi <anguru@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "echo 'hi'",
+    "git": ""
+  }
+
+}
